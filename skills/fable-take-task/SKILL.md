@@ -1,6 +1,6 @@
 ---
-name: take-task
-description: "Take assigned tasks from Fable. Use '/take-task' for one task, '/take-task --loop' to poll continuously."
+name: fable-take-task
+description: "Take assigned tasks from Fable. Use '/fable-take-task' for one task, '/fable-take-task --loop' to poll continuously."
 user-invocable: true
 ---
 
